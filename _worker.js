@@ -14,8 +14,10 @@ let addresses = [
 	'www.visa.com.sg',
 	'skk.moe#也可以放域名带端口 如下',
 	'www.wto.org:8443',
-	'www.csgo.com:2087#节点名放在井号之后即可',
+	'cf.090227.xyz',
+	'cfip.xxxxxxxx.tk' ,
 	'icook.hk#若不带端口号默认端口为443',
+	'russia.com' ,
 	'104.17.152.41#IP也可以',
 	'[2606:4700:e7:25:4b9:f8f8:9bfb:774a]#IPv6也OK',
 ];
