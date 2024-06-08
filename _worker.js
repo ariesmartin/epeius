@@ -20,9 +20,11 @@ let addresses = [
 	'russia.com' ,
 	'104.17.152.41#IP也可以',
 	'[2606:4700:e7:25:4b9:f8f8:9bfb:774a]#IPv6也OK',
+	'8.222.193.65:443#SG',
+	'152.70.155.147:443#US',
 ];
 
-let sub = ''; 
+let sub = 'trojan.fxxk.dedyn.io'; 
 let subconverter = 'url.v1.mk';// clash订阅转换后端，目前使用肥羊的订阅转换功能。自带虚假节点信息防泄露
 let subconfig = "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini.ini"; //订阅配置文件
 let RproxyIP = 'false';
